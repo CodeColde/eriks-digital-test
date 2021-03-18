@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { IProduct } from "../../entities/return";
-import DeleteCompare from "../atoms/DeleteCompare";
+import DeleteCompare from "../molecules/DeleteCompare";
 import Header from "../atoms/Header";
 import PriceCompare from "../atoms/PriceCompare";
 import theme from "../../constants/theme";
