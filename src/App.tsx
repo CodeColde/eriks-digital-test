@@ -1,11 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import CompareProducts from "./pages/CompareProducts";
 
 function App() {
   return (
     <div className="App">
-      
+      <CompareProducts />
     </div>
   );
 }
